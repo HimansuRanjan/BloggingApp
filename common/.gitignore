@@ -1,5 +1,5 @@
 # prod
-dist/
+dist
 
 # dev
 .yarn/
@@ -12,7 +12,7 @@ dist/
 .idea/shelf
 
 # deps
-node_modules/
+node_modules
 .wrangler
 
 # env
